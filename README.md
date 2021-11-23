@@ -1,7 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<div style="width:100%;height:0;padding-bottom:86%;position:relative;"><iframe src="https://giphy.com/embed/oirLISmToyoeI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oirLISmToyoeI">via GIPHY</a></p>
-
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Rauthan</h1>
 <h3 align="center">I am a  programming enthusiast from India.</h3>
