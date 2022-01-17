@@ -27,8 +27,8 @@
 ## 📊 My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=radical)
 
-[![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rauthanshubham1)](https://github.com/rauthanshubham1/github-readme-stats)
-
+<!-- [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rauthanshubham1)](https://github.com/rauthanshubham1/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🚀 Languages and Tools:
