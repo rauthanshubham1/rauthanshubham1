@@ -24,7 +24,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/></a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -35,7 +35,7 @@
 
 
 ## Connect with me:
-<p align="left">
+<p align="centre">
 
 
 <a href = "https://twitter.com/rauthanshubham1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
