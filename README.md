@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-![Alt Text](Gif/Daftpunktocat-Guy - GitHub Octodex.gif)
+![Alt Text](https://github.com/rauthanshubham1/rauthanshubham1/blob/6e6173611bae61f4ea91c7b3e9a1e616b091c669/Gif/Daftpunktocat-Guy%20-%20GitHub%20Octodex.gif)
 
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Rauthan</h1>
