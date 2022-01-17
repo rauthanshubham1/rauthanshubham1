@@ -35,7 +35,7 @@
 
 
 ## Connect with me:
-<p align="center">
+<p align="centre">
 
 
 <a href = "https://twitter.com/rauthanshubham1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
