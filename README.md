@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently a **First Year B.E Student**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Web Devlopment**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
