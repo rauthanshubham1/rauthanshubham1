@@ -20,6 +20,7 @@
 - 😄 Pronouns: **He/His**
 
 - ⚡ Fun fact **Curious To Learn**
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=cobalt)
 
 ## 🚀 Languages and Tools:
 
