@@ -32,7 +32,6 @@
 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha)
 
 ## Connect with me:
 <p align="left">
@@ -46,3 +45,5 @@
 </p>
 
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rauthanshubham1.rauthanshubham1)
