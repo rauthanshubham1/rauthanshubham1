@@ -25,7 +25,7 @@
 
 
 ## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=dark)
 
 
 
