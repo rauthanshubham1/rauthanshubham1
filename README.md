@@ -1,5 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+![Alt Text](Gif/Daftpunktocat-Guy - GitHub Octodex.gif)
+
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Rauthan</h1>
 <h3 align="center">I am a  programming enthusiast from India.</h3>
