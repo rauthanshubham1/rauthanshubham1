@@ -23,9 +23,8 @@
 
 
 ## 📊 My Stats
-<p align ="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=cobalt)
-</p>
+
 
 
 ## 🚀 Languages and Tools:
@@ -44,6 +43,7 @@
 <a href = "https://www.facebook.com/shubham.rauthan.92/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 </p>
 
-<p>
+
+## 💖 Thank You
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rauthanshubham1.rauthanshubham1)
-</p>
+
