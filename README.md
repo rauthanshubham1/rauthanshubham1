@@ -20,31 +20,30 @@
 - 😄 Pronouns: **He/His**
 
 - ⚡ Fun fact **Curious To Learn**
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=cobalt)
+
+
+## 📊 My Stats
+<p align ="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=cobalt)
+</p>
+
 
 ## 🚀 Languages and Tools:
 
-<p align="center"> 
+<p align="left"> 
     <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/></a>
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    
 </p>
 
 
-
-
-## Connect with me:
-<p align="center">
-
-
+## 🔗 Connect with me:
+<p align="left">
 <a href = "https://twitter.com/rauthanshubham1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rauthanshubham1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/shubham.rauthan.92/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
-
-
 </p>
 
-
-
+<p>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rauthanshubham1.rauthanshubham1)
+</p>
