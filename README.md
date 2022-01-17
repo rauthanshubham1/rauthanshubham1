@@ -1,7 +1,8 @@
-<p align="center">
-    ![Alt Text](https://github.com/rauthanshubham1/rauthanshubham1/blob/0993ee1b7a9cdc2023980c26dd2d07a4f5d0bf2a/Gif/output-onlinegiftools.gif)
-</p>
+<!-- ![Alt Text](https://github.com/rauthanshubham1/rauthanshubham1/blob/0993ee1b7a9cdc2023980c26dd2d07a4f5d0bf2a/Gif/output-onlinegiftools.gif) -->
 
+<p align="center">
+  <img src="https://github.com/rauthanshubham1/rauthanshubham1/blob/0993ee1b7a9cdc2023980c26dd2d07a4f5d0bf2a/Gif/output-onlinegiftools.gif" alt="animated" />
+</p>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Rauthan</h1>
 <h3 align="center">I am a  programming enthusiast from India.</h3>
