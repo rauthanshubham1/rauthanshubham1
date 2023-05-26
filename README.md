@@ -9,7 +9,7 @@
 
 ## 📚 About Me
 
-- 🔭 I’m currently a **First Year B.E Student**
+- 🔭 I’m currently a **Third Year B.E Student**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
@@ -30,23 +30,35 @@
 
 
 ## 🚀 Languages and Tools:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" />
 
-<p align="left"> 
-    <a href="https://www.learn-c.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-programming.png"/></a>
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css3" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MaterialUI" width="50" height="50" />
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" />
+<img src="https://images.velog.io/images/bigbrothershin/post/42101d3f-c2d9-43c0-9b91-70d322fd2764/nextjs%20image.jpeg" alt="NextJs" width="70" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
 </p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauthanshubham1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 Connect with me:
-<p align="left">
-<a href = "https://twitter.com/rauthanshubham1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rauthanshubham1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/shubham.rauthan.92/"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
+<p align="center">
+<a href = "https://twitter.com/rauthanshubham1" style="margin-right: 5px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50" height="50"/></a>
+<a href = "https://www.instagram.com/rauthanshubham1/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" height="50"/></a>
+<a href = "https://www.instagram.com/rauthanshubham1/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/></a>
 </p>
 
 
-## 💖 Thanks for visiting:
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=rauthanshubham1.rauthanshubham1)
+## 💖 Thanks for visiting
 
