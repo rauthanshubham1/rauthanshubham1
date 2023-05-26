@@ -1,7 +1,5 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<p align="center">
-  <img src="https://github.com/rauthanshubham1/rauthanshubham1/blob/0993ee1b7a9cdc2023980c26dd2d07a4f5d0bf2a/Gif/output-onlinegiftools.gif" alt="animated" />
-</p>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham Rauthan</h1>
 <h3 align="center">I am a  programming enthusiast from India.</h3>
@@ -28,7 +26,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rauthanshubham1&theme=radical)
 
 
-
 ## 🚀 Languages and Tools:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -50,7 +47,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rauthanshubham1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauthanshubham1&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+</div>
 
 ## 🔗 Connect with me:
 <p align="center">
@@ -59,6 +58,7 @@
 <a href = "https://www.instagram.com/rauthanshubham1/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/></a>
 </p>
 
-
-## 💖 Thanks for visiting
+<div align="center">
+<b>💖 Thanks for visiting<b/>
+</div>
 
