@@ -7,7 +7,7 @@
 
 ## 📚 About Me
 
-- 🔭 I’m currently a **Third Year B.E Student**
+- 🔭 I’m currently a **Fourth Year B.E Student**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Web Development**
 
